@@ -1,17 +1,29 @@
-![banner](https://banner.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/XiaoshuangzzZ/XiaoshuangzzZ/main/banner.jpg" alt="banner" width="80%" />
+</div>
 
-## 🧑‍💻 关于我
-- 🔭 我目前正在做：一个有趣的项目
-- 🌱 我正在学习：Rust & 机器学习
-- 💬 问我：Python, 前端, 或者猫咪 🐱
 
-## 🛠️ 技术栈
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
+  <p> ──────────────────────────────────────── ❖ ──────────────────────────────────────── </p>
+</div>
 
-## 📊 我的 GitHub 统计
-![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
+<p align="center">
+   <h2></h2>
+</p>
 
----
+<div align="center">
+  <h2>🌸✨About me✨🌸</h2>
+ 
+</div>
 
-⭐️ 来自 [你的用户名](https://github.com/你的用户名)
+<p>
+  <b>叫我小霜或者Ellie就好！</b>
+</p>
+
+<ul>
+  <li>毕业于：<b>家里蹲大学（是高中生啦）<b/></li>
+  <li>正在学习：<b>Docker,Python,NLP以及人工智能基础理论</b></li>
+  <li>联系我：<a href="jiaminpan4@gmail.com">📧发邮件！</a></li>
+  <li>纯靠兴趣驱动，你们知道吗CS真的很好玩</li>
+</ul>
+
